@@ -2,7 +2,7 @@
 - 👀 I’m interested in Physics, applied math and computer science topics. 
     I've mostly been working on AGI architectures for the past couple years and currently working on Systems programming and Devops in the Fintech sector.
 - 🌱 I’m currently learning the Linux Kernel.
-- 💞️ I’m looking to collaborate on AI projects and Linux based software development.
+- 💞️ I’m looking to collaborate on any impactful project.
 - 📫 You can reach me via my email: misgana.bayetta@gmail.com
 
 <!---
